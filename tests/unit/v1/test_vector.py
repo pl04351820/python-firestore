@@ -13,8 +13,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-import mock
-
 from google.api_core import gapic_v1
 
 from google.cloud.firestore_v1.types.vector import Vector
